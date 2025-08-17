@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
+html, body {
+  font-family: 'Cairo', Arial, sans-serif;
+  direction: rtl;
+  background: #f9fafb;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+input, button, textarea, select {
+  font-family: inherit;
+}
